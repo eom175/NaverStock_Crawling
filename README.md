@@ -1,10 +1,9 @@
 # NaverStock_Crawling
 
 pandas + Selenium + ChromeDriver를 사용해 네이버 금융의 시가총액 페이지를 순회하며
-종목 데이터를 CSV로 저장하는 크롤링 프로젝트입니다.
+종목 데이터를 CSV로 저장하는 크롤링 연습.
 
-이 README는 `market_cap.py`(주석 기준) 흐름이 그대로 드러나도록 작성했습니다.
-
+이 README는 `market_cap.py`(주석 기준) 흐름이 그대로 드러나도록 작성.
 ## 1) 프로젝트 목적
 
 - 네이버 금융 시가총액 페이지(`sise_market_sum.naver`)에서 여러 페이지의 종목 데이터를 수집
